@@ -1,0 +1,17 @@
+# Credenciales locales: NO se publican
+db.properties
+**/db.properties
+
+# Compilados
+target/
+build/
+out/
+*.class
+*.jar
+!gradle-wrapper.jar
+
+# IDE / Sistema
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
